@@ -1,6 +1,6 @@
 🎬 IMDB Movie Review Sentiment Analysis (GRU)
 
-This project uses a **Gated Recurrent Unit (GRU)** deep learning model to classify IMDB movie reviews as **Positive 😀** or **Negative 😡**.  
+This project uses a **Gated Recurrent Unit (GRU)** deep learning model to classify IMDB movie reviews as **Positive** or **Negative**.  
 It’s built with **TensorFlow/Keras** and deployed via **Streamlit** for interactive use.
 
 ---
